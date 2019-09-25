@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "118010897000",
+    "firebase_url": "https://countdown-game-multiplayer.firebaseio.com",
+    "project_id": "countdown-game-multiplayer",
+    "storage_bucket": "countdown-game-multiplayer.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:118010897000:android:23a6d27f1d294ec5",
+        "android_client_info": {
+          "package_name": "game.gautemo.countdowngame"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "118010897000-sf86bnm51hv6sffs35glhb4pp0hi5k9c.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "game.gautemo.countdowngame",
+            "certificate_hash": "deac7b6a82f87c2eb1b921ac29d78d1b8bfab109"
+          }
+        },
+        {
+          "client_id": "118010897000-r67doclp19v0q0n3jl3t8vhdg7djlrui.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBeF0RjX9ORXQvr0K7iAUy0tpj9_dyuEc0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "118010897000-r67doclp19v0q0n3jl3t8vhdg7djlrui.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
